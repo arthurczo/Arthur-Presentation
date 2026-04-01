@@ -4,7 +4,7 @@
 
 > *Software Engineering student focused on back-end development, REST APIs and database modeling.*
 
- Pernambuco, Brazil &nbsp;|&nbsp; ✉️ cruzzarthur@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-cruz-oliveira-061a69149/)
+ Pernambuco, Brazil &nbsp;|&nbsp;  cruzzarthur@gmail.com &nbsp;|&nbsp;  [LinkedIn](https://www.linkedin.com/in/arthur-cruz-oliveira-061a69149/)
 
 ---
 
@@ -15,7 +15,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 
 **Back-End & Architecture**
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -35,7 +35,7 @@
 
 ##  Featured Project
 
-### 🔹 CIS API — Ideas & Topics Management System
+###  CIS API — Ideas & Topics Management System
 > *Academic capstone project — Software Development 3*
 
 A full REST API for managing topics, ideas and a voting system, built with a professional architecture in a team environment.
