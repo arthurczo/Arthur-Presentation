@@ -1,5 +1,3 @@
-# Arthur-Presentation
-
 #  Hey, I'm Arthur Cruz Oliveira
 
 > *Software Engineering student focused on back-end development, REST APIs and database modeling.*
