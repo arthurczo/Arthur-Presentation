@@ -125,9 +125,35 @@ Repository available upon request (University GitLab).
 
 ---
 
-# 👨‍🏫 Teaching Experience
+## 💼 Experience
 
-Currently working as a **Technology Tutor at CESAR School**, teaching SQL, Excel, Data Visualization and programming fundamentals through project-based learning.
+### Technical Support Analyst (N1/N2)
+
+Worked supporting large public organizations including:
+
+- COMPESA
+- DETRAN
+- Pernambuco State Department of Education
+
+Activities:
+
+- Infrastructure support
+- Incident troubleshooting
+- User assistance
+- Windows environment
+- Active Directory
+- Network configuration
+- Printer management
+- Technical documentation
+
+### Technology Tutor
+
+CESAR School
+
+- SQL
+- Excel
+- Data Visualization
+- Programming Fundamentals
 
 ---
 
