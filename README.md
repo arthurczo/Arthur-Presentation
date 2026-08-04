@@ -135,7 +135,7 @@ Currently working as a **Technology Tutor at CESAR School**, teaching SQL, Excel
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurczo&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurczo&show_icons=true&theme=tokyonight"/> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=arthurczo&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy) 
 </p>
 
 ---
