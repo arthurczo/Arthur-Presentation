@@ -97,8 +97,11 @@ Software Engineering student focused on backend development and Data Engineering
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurczo&show_icons=true&hide_title=true&hide_rank=true&theme=transparent&border_color=30363D&text_color=C9D1D9&icon_color=58A6FF" alt="Arthur's GitHub statistics" />
-</p>
+ html><html data-dpl-id="dpl_8Rkw13JpbzoMVrtjAHgSsvxbn4ae" class="geist_mono_fe992356-module__VEU71W__className geistsans_d5a4f12f-module__HB
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurczo&show_icons=true&hide
+_title=true&hide_rank=true&theme=transparent&border_color=30363D&text_color=C9D1D9&icon_color=58A6FF" alt="Arthur's 
+GitHub statistics" />
 
 ## Contact
 
