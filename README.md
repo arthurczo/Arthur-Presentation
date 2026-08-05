@@ -94,7 +94,7 @@ Software Engineering student focused on backend development and Data Engineering
 - Apache Airflow and data-pipeline orchestration
 - Backend architecture and API design
 
-## GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurczo&theme=github_dark" width="95%">
