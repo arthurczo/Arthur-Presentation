@@ -1,173 +1,107 @@
-# 👋 Hey, I'm Arthur Cruz Oliveira
+# Arthur Cruz Oliveira
 
-> *Software Engineering student passionate about building scalable back-end applications and modern data pipelines.*
+Software Engineering student focused on backend development and Data Engineering. I enjoy building well-structured systems and learning how cloud platforms, data pipelines, and APIs can turn raw information into useful products. I am looking for internship and junior opportunities where I can keep growing through practical engineering work.
 
-🇧🇷 Pernambuco, Brazil &nbsp;|&nbsp; 📧 cruzzarthur@gmail.com &nbsp;|&nbsp;
-[LinkedIn](https://www.linkedin.com/in/arthur-cruz-oliveira-061a69149/) •
-[GitHub](https://github.com/arthurczo) •
-[GitLab](https://gitlab.com/ArthurCzo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cruz-oliveira-061a69149/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cruzzarthur@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arthurczo)
 
----
-
-# 🚀 Current Focus
-
-- 📊 Data Engineering
-- ⚙️ Backend Development
-- ☁️ Google Cloud Platform (GCP)
-- 🔄 ETL / ELT Pipelines
-- 🏗️ Software Architecture
-
----
-
-# 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Data Engineering
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D4?style=flat)
-![DDD](https://img.shields.io/badge/DDD-0A66C2?style=flat)
-![CQRS](https://img.shields.io/badge/CQRS-4B5563?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Data Engineering
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-4B8BBE?style=flat-square&logo=apachearrow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Cloud
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
----
+## Featured Projects
 
-# 🌟 Featured Projects
+### [Utilities ETL Pipeline](https://github.com/arthurczo/utilities-etl-pipeline)
 
-## 🚀 Utilities ETL Pipeline
+**Data Engineering portfolio project for utility-energy consumption analytics.** It processes synthetic meter readings through a local-first Medallion Architecture, producing business-ready metrics and an interactive dashboard.
 
-> **End-to-end Data Engineering pipeline inspired by real-world utility companies.**
+- Built with Python, SQL, Apache Airflow, Docker Compose, and Streamlit
+- Implements batch processing and deterministic file-based CDC using row hashes and checkpoints
+- Organizes data through Bronze, Silver, and Gold layers with validation, deduplication, and aggregations
+- Includes an optional BigQuery-ready serving layer, automated tests, CI, architecture diagrams, and project documentation
 
-Implementation of a complete ETL pipeline using **Python**, **Apache Airflow**, **Medallion Architecture**, **CDC**, **Batch Processing** and **Google BigQuery integration**.
+`Python` `SQL` `Apache Airflow` `ETL` `CDC` `Docker` `BigQuery` `Streamlit`
 
-### Highlights
+### [RifaPremios](https://github.com/arthurczo/RifaPremios)
 
-- 🥉 Bronze → 🥈 Silver → 🥇 Gold Architecture
-- 🔄 Incremental CDC
-- 📈 Business aggregations
-- 📊 Automated chart generation
-- ⚙️ Apache Airflow orchestration
-- ☁️ Google BigQuery integration
-- 📖 Well documented architectural decisions
+**Full-stack raffle-management platform built as a personal architecture study.** The project modernizes a legacy PHP concept into a TypeScript application with a web interface, domain-organized API routes, authentication, and relational persistence.
 
-**Tech Stack**
+- Next.js 14 App Router and React frontend with TypeScript
+- Modular REST API routes for authentication, orders, and prize-wheel workflows
+- Prisma ORM with MySQL, relational domain models, and persistent raffle and order state
+- HTTP-only cookie sessions, middleware-protected routes, and a service-layer approach for business logic
 
-`Python` `SQL` `Apache Airflow` `Pandas` `Docker`
-`BigQuery` `Matplotlib`
+`Next.js` `React` `TypeScript` `Prisma` `MySQL` `REST API`
 
-🔗 https://github.com/arthurczo/utilities-etl-pipeline
+## Professional Experience
 
----
+### Technology Tutor — CESAR School
 
-## 🎟️ RifaPremios
+- Supported learners in SQL, Excel, data visualization, and programming fundamentals.
+- Developed communication, mentoring, and technical problem-solving skills by translating concepts into practical examples.
 
-> **Web application for digital raffle management and prize administration.**
+### IT Support Technician (N1/N2)
 
-Full-stack application focused on business rules, persistence and user interaction.
+- Provided incident troubleshooting and user support for systems used by COMPESA, DETRAN, and SEDUC.
+- Worked with Windows environments, Active Directory, network and printer configuration, and technical documentation.
+- Built a foundation in diagnosing issues, documenting solutions, and supporting reliable day-to-day IT operations.
 
-### Highlights
+## Currently Learning
 
-- 🎫 Digital raffle management
-- 👥 User interaction
-- 🗄️ Database persistence
-- ⚙️ Business rules implementation
-- 📦 RESTful architecture
+- Data Engineering and distributed data processing
+- Google Cloud Platform and BigQuery
+- Apache Airflow and data-pipeline orchestration
+- Backend architecture and API design
 
-🔗 https://github.com/arthurczo/RifaPremios
-
----
-
-## 🏛️ CIS API
-
-> **Academic capstone project developed with Clean Architecture and DDD.**
-
-REST API developed in a team environment applying software engineering best practices.
-
-### Highlights
-
-- Clean Architecture
-- Domain-Driven Design
-- CQRS
-- SOLID
-- Dependency Injection
-- Unit & Integration Tests
-
-Repository available upon request (University GitLab).
-
----
-
-## 💼 Experience
-
-### Technical Support Analyst (N1/N2)
-
-Worked supporting large public organizations including:
-
-- COMPESA
-- DETRAN
-- Pernambuco State Department of Education
-
-Activities:
-
-- Infrastructure support
-- Incident troubleshooting
-- User assistance
-- Windows environment
-- Active Directory
-- Network configuration
-- Printer management
-- Technical documentation
-
-### Technology Tutor
-
-CESAR School
-
-- SQL
-- Excel
-- Data Visualization
-- Programming Fundamentals
-
----
-
-# 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurczo&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurczo&show_icons=true&hide_title=true&hide_rank=true&theme=transparent&border_color=30363D&text_color=C9D1D9&icon_color=58A6FF" alt="Arthur's GitHub statistics" />
 </p>
 
----
+## Contact
 
-# 🤝 Let's Connect
+I am open to discussing internship and junior opportunities in Software Engineering, Backend Development, and Data Engineering.
 
-I'm always interested in discussing **Software Engineering**, **Backend Development** and **Data Engineering**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cruz-oliveira-061a69149/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cruzzarthur@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arthur-cruz-oliveira-061a69149/) · [Email](mailto:cruzzarthur@gmail.com) · [GitHub](https://github.com/arthurczo)
