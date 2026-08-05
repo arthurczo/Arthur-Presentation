@@ -94,24 +94,19 @@ Software Engineering student focused on backend development and Data Engineering
 - Apache Airflow and data-pipeline orchestration
 - Backend architecture and API design
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=arthurczo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurczo&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurczo&theme=github_dark" width="95%">
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=arthurczo&theme=github-dark&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurczo&theme=github_dark" width="47%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurczo&theme=github_dark" width="47%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arthurczo&theme=github-dark&hide_border=true" />
 </p>
 
 ## Contact
